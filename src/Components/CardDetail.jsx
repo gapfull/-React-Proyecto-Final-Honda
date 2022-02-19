@@ -35,7 +35,7 @@ const CardDetail = () => {
   } else {
     return (
       <div>
-        <div
+        <div id="fondo-detalle"
           style={{
             backgroundImage: `url(${modelo.foto2})`,
             height: "500px",

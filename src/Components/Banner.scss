@@ -14,8 +14,19 @@ ul li {
   background-position: 50% 50%;
 }
 
-
 .slider-slide > img {
   width: 100%;
   margin-top: -195px !important;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+  .carousel {
+    height: 225px;
+  }
+  .slider-slide > img {
+    width: 100%;
+    margin-top: 0px !important;
+  }
 }
