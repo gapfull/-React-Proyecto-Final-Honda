@@ -31,7 +31,7 @@ const Banner = () => {
     return (
       <>
         <div className="carousel">
-          <Carousel>
+          <Carousel autoplay={true}>
             {list.map((item) => {
               return <img key={item.id} src={item.foto} alt="" />;
             })}

@@ -59,7 +59,7 @@ const CardDetail = () => {
           <ul className="flex-container-caracteristicas">
             {modelo.caracteristicas.map((item) => {
               return (
-                <li className="flex-item-caracteristicas" key={item.id}>
+                <li className="flex-item-caracteristicas" key={item.titulo}>
                   <div className="card">
                     <img className="axis" src={item.img} alt="{item.modelo}" />
                     <h3 className="h3mayusculas">{item.titulo}</h3>
@@ -76,7 +76,7 @@ const CardDetail = () => {
         <ul className="flex-container-version">
           {modelo.version.map((item) => {
             return (
-              <li className="flex-item-version" key={item.acabado+item.precio}>
+              <li className="flex-item-version" key={item.acabado}>
                 <div className="flex-precios">
                   <div>
                     <h3 className="h3mayusculas">{item.acabado}</h3>

@@ -54,15 +54,15 @@
         } ,
         {
           "car-id": 3,
-          "nombre":"Siente la diferencia",
-          "titulo":"Siente la diferencia",
+          "nombre":"La diferencia",
+          "titulo":"La diferencia",
           "descripcion":"No hay nada mejor que la sensación de conducir un híbrido Honda. Décadas de experiencia con motores híbridos y la competencia técnica del sistema e:HEV de Honda hacen que el nuevo Jazz ofrezca un extraordinario rendimiento electrificado y un ahorro excepcional",
           "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/4col-image1.png/_jcr_content/renditions/c2_r.png"
         },
         {
           "car-id": 4,
-          "nombre":"No hay que enchufarlo",
-          "titulo":"No hay que enchufarlo",
+          "nombre":"Si hay que enchufarlo",
+          "titulo":"Si hay que enchufarlo",
           "descripcion":"Los vehículos con tecnología Full Hybrid e:HEV se cargan automáticamente y obtienen potencia del motor de combustión y de la frenada regenerativa. No es necesario un suministro eléctrico de red, lo que te permite ahorrar tiempo y molestias.",
           "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/4col-image2.png/_jcr_content/renditions/c2_r.png"
         } 
@@ -133,22 +133,22 @@
       "foto2":"https://www.diariomotor.com/imagenes/picscache/1920x1600c/honda-e-protoype-fotos-2_1920x1600c.jpg",
       "version": [
         {
-          "acabado":"Jazz Comfort",
-          "titulo":"Jazz Comfort",
+          "acabado":"Honda e Comfort",
+          "titulo":"Honda e Comfort",
           "descripcion":"Para aquellos que buscan un interior espacioso con altos niveles de confort y seguridad.",
           "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
-          "precio": "12.500€"
+          "precio": "13.500€"
         },
         {
-          "acabado":"Jazz Elegance",
-          "titulo":"Jazz Elegance",
+          "acabado":"Honda e Elegance",
+          "titulo":"Honda e Elegance",
           "descripcion":"Para los que disfrutan un poco más de lujo, así como una conducción suave y receptiva.",
           "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
           "precio": "14.500€"
         },
         {
-          "acabado":"Jazz Crosstar",
-          "titulo":"Jazz Crosstar",
+          "acabado":"Honda e Crosstar",
+          "titulo":"Honda e Crosstar",
           "descripcion":"Para conductores que buscan un diseño de SUV divertido junto con amplitud y versatilidad.",
           "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
           "precio": "16.500€"
@@ -180,15 +180,15 @@
         } ,
         {
           "car-id": 3,
-          "nombre":"Siente la diferencia",
-          "titulo":"Siente la diferencia",
+          "nombre":"La diferencia",
+          "titulo":"La diferencia",
           "descripcion":"No hay nada mejor que la sensación de conducir un híbrido Honda. Décadas de experiencia con motores híbridos y la competencia técnica del sistema e:HEV de Honda hacen que el nuevo Jazz ofrezca un extraordinario rendimiento electrificado y un ahorro excepcional",
           "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/4col-image1.png/_jcr_content/renditions/c2_r.png"
         },
         {
           "car-id": 4,
-          "nombre":"No hay que enchufarlo",
-          "titulo":"No hay que enchufarlo",
+          "nombre":"Si hay que enchufarlo",
+          "titulo":"Si hay que enchufarlo",
           "descripcion":"Los vehículos con tecnología Full Hybrid e:HEV se cargan automáticamente y obtienen potencia del motor de combustión y de la frenada regenerativa. No es necesario un suministro eléctrico de red, lo que te permite ahorrar tiempo y molestias.",
           "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/4col-image2.png/_jcr_content/renditions/c2_r.png"
         } 
@@ -197,22 +197,22 @@
       "foto2":"https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/Honda-HR-V-Hybrid-1-16x9-desktop.jpg/jcr:content/renditions/fb_r_w.webp",
       "version": [
         {
-          "acabado":"Comfort",
-          "titulo":"Comfort",
+          "acabado":"HR-V Comfort",
+          "titulo":"HR-V Comfort",
           "descripcion":"Para aquellos que buscan un interior espacioso con altos niveles de confort y seguridad.",
           "img":"https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/HR-V-Hybrid-popular-configurations1.png/_jcr_content/renditions/c3.png",
           "precio": "30.500€"
         },
         {
-          "acabado":"Advance",
-          "titulo":"Advance",
+          "acabado":"HR-V Advance",
+          "titulo":"HR-V Advance",
           "descripcion":"Para los que disfrutan un poco más de lujo, así como una conducción suave y receptiva.",
           "img":"https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/HR-V-Hybrid-popular-configurations2.png/_jcr_content/renditions/c3.png",
           "precio": "32.400€"
         },
         {
-          "acabado":"Advance Style",
-          "titulo":"Advance Style",
+          "acabado":"HR-V Advance Style",
+          "titulo":"HR-V Advance Style",
           "descripcion":"Para conductores que buscan un diseño de SUV divertido junto con amplitud y versatilidad.",
           "img":"https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/HR-V-Hybrid-popular-configurations3.png/_jcr_content/renditions/c3.png",
           "precio": "36.140€"
@@ -259,22 +259,22 @@
       "foto2":"https://www.honda.es/content/dam/central/cars/crv-hybrid-2021/CR-V-Hybrid-Sportline-XL-2.jpg/jcr:content/renditions/fb_r.jpg",
       "version": [
         {
-          "acabado":"Elegance (4x2)",
-          "titulo":"Elegance (4x2)",
+          "acabado":"CR-V Elegance (4x2)",
+          "titulo":"CR-VElegance (4x2)",
           "descripcion":"Para aquellos que buscan un interior espacioso con altos niveles de confort y seguridad.",
           "img":"https://www.honda.es/content/dam/central/cars/crv-hybrid-2021/CR-V-Hybrid-2021-Elegance.png/_jcr_content/renditions/c1.png",
           "precio": "36.500€"
         },
         {
-          "acabado":"Lifestyle (4x2)",
-          "titulo":"Lifestyle (4x2)",
+          "acabado":"CR-VLifestyle (4x2)",
+          "titulo":"CR-VLifestyle (4x2)",
           "descripcion":"Para los que disfrutan un poco más de lujo, así como una conducción suave y receptiva.",
           "img":"https://www.honda.es/content/dam/central/cars/crv-hybrid-2021/CR-V-Hybrid-2021-Lifestyle.png/_jcr_content/renditions/c1.png",
           "precio": "38.900€"
         },
         {
-          "acabado":"Executive (4x4)",
-          "titulo":"Executive (4x4)",
+          "acabado":"CR-VExecutive (4x4)",
+          "titulo":"CR-VExecutive (4x4)",
           "descripcion":"Para conductores que buscan un diseño de SUV divertido junto con amplitud y versatilidad.",
           "img":"https://www.honda.es/content/dam/central/cars/crv-hybrid-2021/CR-V-Hybrid-2021-Executive.png/_jcr_content/renditions/c1.png",
           "precio": "46.500€"
@@ -304,15 +304,15 @@
         } ,
         {
           "car-id": 3,
-          "nombre":"Siente la diferencia",
-          "titulo":"Siente la diferencia",
+          "nombre":"La diferencia",
+          "titulo":"La diferencia",
           "descripcion":"No hay nada mejor que la sensación de conducir un híbrido Honda. Décadas de experiencia con motores híbridos y la competencia técnica del sistema e:HEV de Honda hacen que el nuevo Jazz ofrezca un extraordinario rendimiento electrificado y un ahorro excepcional",
           "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/4col-image1.png/_jcr_content/renditions/c2_r.png"
         },
         {
           "car-id": 4,
-          "nombre":"No hay que enchufarlo",
-          "titulo":"No hay que enchufarlo",
+          "nombre":"Si hay que enchufarlo",
+          "titulo":"Si hay que enchufarlo",
           "descripcion":"Los vehículos con tecnología Full Hybrid e:HEV se cargan automáticamente y obtienen potencia del motor de combustión y de la frenada regenerativa. No es necesario un suministro eléctrico de red, lo que te permite ahorrar tiempo y molestias.",
           "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/4col-image2.png/_jcr_content/renditions/c2_r.png"
         } 
@@ -321,33 +321,33 @@
       "foto2":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Civic-5dr-shaped-for-sport-desktop.jpg/jcr:content/renditions/fb.jpg",
       "version": [
         {
-          "acabado":"Jazz Comfort",
-          "titulo":"Jazz Comfort",
+          "acabado":"CIVIC Comfort",
+          "titulo":"CIVIC Comfort",
           "descripcion":"Para aquellos que buscan un interior espacioso con altos niveles de confort y seguridad.",
           "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Honda-Civic%205DR-Elegance.png/_jcr_content/renditions/c1.png",
-          "precio": "12.500€"
+          "precio": "28.500€"
         },
         {
-          "acabado":"Jazz Elegance",
-          "titulo":"Jazz Elegance",
+          "acabado":"CIVIC Elegance",
+          "titulo":"CIVIC Elegance",
           "descripcion":"Para los que disfrutan un poco más de lujo, así como una conducción suave y receptiva.",
           "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Honda-Civic%205DR-Elegance.png/_jcr_content/renditions/c1.png",
-          "precio": "14.500€"
+          "precio": "30.500€"
         },
         {
-          "acabado":"Jazz Crosstar",
-          "titulo":"Jazz Crosstar",
+          "acabado":"CIVIC Crosstar",
+          "titulo":"CIVIC Crosstar",
           "descripcion":"Para conductores que buscan un diseño de SUV divertido junto con amplitud y versatilidad.",
           "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Honda-Civic%205DR-Elegance.png/_jcr_content/renditions/c1.png",
-          "precio": "16.500€"
+          "precio": "36.500€"
         }
       ]
     },
     {
       "id": 6,
-      "modelo": "PRESUPUESTO",
-      "descripcion": "5 puertas",
-      "titulo":"Oferta Honda Jazz 25% descuento",
+      "modelo": "PRESUPUESTO A TU MEDIDA",
+      "descripcion": "¿Híbrido o eléctrico?",
+      "titulo":"Configura tu vehÍculo HONDA a tu gusto",
       "caracteristicas": [
         {
           "car-id": 1,

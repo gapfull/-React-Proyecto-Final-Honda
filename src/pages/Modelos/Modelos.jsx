@@ -38,7 +38,7 @@ const Modelos = () => {
         <ul className="flex-container-model">
           {list.map((item) => {
             return (
-              <li className="flex-item-model" key={item.id}>
+              <li className="flex-item-model" key={item.id+item.foto2}>
                 <Link to={"../modelo/" + item.id}>
                   <div
                     style={{
