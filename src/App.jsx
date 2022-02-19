@@ -1,14 +1,18 @@
 import "./App.scss";
-import Banner from "./Components/Banner";
-import CardItem from "./Components/CardItem";
-import PiePagina from "./Components/PiePagina";
+
+import Header from "./components/Header";
+import Main from "./components/Main";
+// import Banner from "./components/Banner";
+// import CardItem from "./components/CardItem";
+import PiePagina from "./components/PiePagina";
+
 
 function App() {
   return (
     <div className="App">
-      <h1>HONDA</h1>
-      <Banner/>
-      <CardItem />
+      <Header />
+      <Main />
+
       <PiePagina />
     </div>
   );

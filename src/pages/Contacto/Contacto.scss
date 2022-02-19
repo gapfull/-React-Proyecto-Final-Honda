@@ -1,0 +1,38 @@
+input{
+    width: 400px;
+    margin: 10px;
+
+    background-color: #f4f4f4 !important;
+    color: #999 !important;
+    padding: 12px !important;
+    text-indent: 10px;
+    border: none !important;
+    border-bottom: 2px solid #999 !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    height: auto !important;
+    float: none !important;
+    font-size: .88889em;
+    font-weight: 300;
+    text-align:left;
+}
+
+.btncontacto{
+    background-image: none;
+    background-color: gray;
+    border: none !important;
+    color: #FFF;
+    display: inline-block;
+    font-size: .88889em;
+    padding: 0.83333em 1.94444em;
+    text-align: center;
+    -webkit-transition: .3s;
+    transition: .3s;
+    text-transform: uppercase;
+    text-decoration: none !important;
+    letter-spacing: 1px;
+    border-radius: 0;
+    box-shadow: none !important;
+    text-shadow: none;
+    font-weight: 600;
+}

@@ -1,0 +1,32 @@
+.imgsobrefondo-blog {
+  padding: 5%;
+  color: whitesmoke;
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px auto;
+  h1{
+    text-align: center;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    margin: 0;
+    padding: 0;
+  }
+  h5{
+    margin: 0px auto;
+    padding: 0;
+  }
+}
+
+.cardblog {
+  background-color: white;
+  margin-top: -40px;
+  width: 90%;
+}
+
+.pblog {
+
+  padding-top: 50px;
+  width: 60%;
+  margin: 0px auto;
+}

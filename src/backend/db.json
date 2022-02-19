@@ -13,15 +13,30 @@
       "titulo": "Oferte Honda Civic",
       "foto": "https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Civic-5dr-close-contact-desktop.jpg/jcr:content/renditions/fb.jpg",
       "enlace": "https://www.honda.es/"
-    }
+    },
+    {
+    "id": 3,
+    "modelo": "Jazz",
+    "titulo": "Oferte Honda Jazz",
+    "foto": "https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/Honda-HR-V-Hybrid-15-16x9-desktop1.jpg/jcr:content/renditions/fb_r_w.webp",
+    "enlace": "https://www.honda.es/"
+  },
+  {
+    "id": 4,
+    "modelo": "Civic",
+    "titulo": "Oferte Honda Civic",
+    "foto": "https://www.honda.es/content/dam/central/cars/crv-hybrid-2021/Discover%20More%20-%20Landscape.jpg/jcr:content/renditions/fb_r_w.webp",
+    "enlace": "https://www.honda.es/"
+  }
   ],
 
   "modelos":[
     {
       "id": 1,
       "modelo": "JAZZ",
-      "tipo": "5 puertas",
-      "titulo":"Oferta Honda Jazz 25% descuento",
+      "titulo": "EL HÍBRIDO URBANO MÁS COMPLETO",
+      "descripcion": "El Honda Jazz y el Jazz Crosstar ofrecen una completa experiencia híbrida a través de su exclusivo tren de potencia e:HEV de tres modos de conducción. El Honda Jazz es ágil, suave y eficiente.",
+      "subtitulo": "El Honda Jazz es un híbrido autorrecargable. Al pisar el acelerador, a diferencia de otros motores híbridos, ofrece un rendimiento más dinámico",
       "caracteristicas": [
         {
           "car-id": 1,
@@ -66,14 +81,14 @@
           "acabado":"Jazz Elegance",
           "titulo":"Jazz Elegance",
           "descripcion":"Para los que disfrutan un poco más de lujo, así como una conducción suave y receptiva.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
+          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-20-Compare-1024x576.png/_jcr_content/renditions/c1.png",
           "precio": "14.500€"
         },
         {
           "acabado":"Jazz Crosstar",
           "titulo":"Jazz Crosstar",
           "descripcion":"Para conductores que buscan un diseño de SUV divertido junto con amplitud y versatilidad.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
+          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-22-Compare-1024x576.png/_jcr_content/renditions/c1.png",
           "precio": "16.500€"
         }
       ]
@@ -81,40 +96,41 @@
     {
       "id": 2,
       "modelo": "HONDA e",
-      "tipo": "5 puertas",
-      "titulo":"Oferta Honda Jazz 25% descuento",
+      "titulo": "EL ELÉCTRICO URBANO Y MINIMALISTA",
+      "descripcion": "El nuevo Honda e es un sueño hecho realidad y ya está disponible en la Red de Concesionarios Honda. Combina un rendimiento ágil y dinámico con un diseño minimalista y una tecnología de vanguardia que hacen que sea un vehículo eléctrico único en el mercado.",
+      "subtitulo": "MINIMALISTA, ÚNICO: La innovación tecnológica más avanzada se envuelve en un diseño puro y fluido.",
       "caracteristicas": [
         {
           "car-id": 1,
-          "nombre":"Estilo elegante",
+          "nombre":"Potencia pura",
           "titulo":"Estilo elegante",
-          "descripcion":"El Honda Civic tiene un perfil deportivo y aerodinámico que lo convierte en un 5 puertas con personalidad única.",
+          "descripcion":"El nuevo Honda e ha sido diseñado como un vehículo eléctrico desde cero, por eso no se han hecho sacrificios en cuanto a su dinamismo ni manejabilidad.",
           "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Civic-5dr-sleek-styling-4up.jpg/_jcr_content/renditions/c2_r.jpg"
         },
         {
           "car-id": 2,
-          "nombre":"Tecnología VTEC TURBO",
-          "titulo":"Tecnología VTEC TURBO",
-          "descripcion":"Diseñado para ser eficiente en el consumo de combustible sin dejar de ofrecer un rendimiento extraordinario.",
+          "nombre":"Seguridad avanzada",
+          "titulo":"Seguridad avanzada",
+          "descripcion":"El nuevo Honda e incorpora de serie el exclusivo Honda SENSING, el conjunto de tecnologías más avanzadas. Se ha diseñado para que tú y tus pasajeros estéis más seguros.",
           "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Civic-5dr-vtec-technology-4up.jpg/_jcr_content/renditions/c2_r.jpg"
         } ,
         {
           "car-id": 3,
-          "nombre":"Amplio espacio interior",
-          "titulo":"Amplio espacio interior",
-          "descripcion":"Máximo espacio para ti y los pasajeros; te sorprenderá todo lo que puedes llevar en tu Civic. Espacio inerior líder en su segmento",
+          "nombre":"Tecnología de carga",
+          "titulo":"Tecnología de carga",
+          "descripcion":"La carga de tu Honda e es no requiere ningún esfuerzo gracias a que el punto de carga se sitúa en el centro del capó, lo que permite un fácil acceso desde los dos lados del vehículo.",
           "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Civic-5dr-inner-space-4up.jpg/_jcr_content/renditions/c2_r.jpg"
         },
         {
           "car-id": 4,
-          "nombre":"Máxima conectividad",
-          "titulo":"Máxima conectividad",
-          "descripcion":"Última tecnología Honda Connect, con Android Auto® o Apple CarPlayTM, que te permite tener tu Smartphone a mano.",
+          "nombre":"Conecta tu mundo",
+          "titulo":"Conecta tu mundo",
+          "descripcion":"Controla tu Honda e con la app My Honda+. Bloquea, carga y configura el aire acondicionado desde cualquier lugar. Recibe el estado de la carga y los avisos de mantenimiento.",
           "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Civic-5dr-stay-in-touch.jpg/_jcr_content/renditions/c2_r.jpg"
         } 
       ],
       "foto1":"https://www.honda.es/content/dam/central/cars/honda-e-2020/Honda_E_nav_image.png/jcr:content/renditions/m_w.webp",
-      "foto2":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-e-hev-16x9.jpg/jcr:content/renditions/fb_r_w.webp",
+      "foto2":"https://www.diariomotor.com/imagenes/picscache/1920x1600c/honda-e-protoype-fotos-2_1920x1600c.jpg",
       "version": [
         {
           "acabado":"Jazz Comfort",
@@ -140,10 +156,13 @@
       ]
     },
     {
+
+
       "id": 3,
       "modelo": "HR-V",
-      "tipo": "5 puertas",
-      "titulo":"Oferta Honda Jazz 25% descuento",
+      "titulo": "¡El nuevo HR-V ya está aquí!",
+      "descripcion": "El nuevo SUV de estilo coupé autorrecargable ofrece una estimulante experiencia de conducción a través de la avanzada tecnología híbrida e:HEV. Combina la agilidad y respuesta de conducción de un vehículo eléctrico con la versatilidad y rendimiento de un vehículo de gasolina.",
+      "subtitulo": "Nuestro HR-V es un Full Hybrid y, a diferencia de un Mild Hybrid, entrega una potencia electrificada dinámica para una nueva generación de conductores con conciencia medioambiental.",
       "caracteristicas": [
         {
           "car-id": 1,
@@ -175,36 +194,37 @@
         } 
       ],
       "foto1":"https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-230x129-thumbnail.png/jcr:content/renditions/m_w.webp",
-      "foto2":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-e-hev-16x9.jpg/jcr:content/renditions/fb_r_w.webp",
+      "foto2":"https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/Honda-HR-V-Hybrid-1-16x9-desktop.jpg/jcr:content/renditions/fb_r_w.webp",
       "version": [
         {
-          "acabado":"Jazz Comfort",
-          "titulo":"Jazz Comfort",
+          "acabado":"Comfort",
+          "titulo":"Comfort",
           "descripcion":"Para aquellos que buscan un interior espacioso con altos niveles de confort y seguridad.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
-          "precio": "12.500€"
+          "img":"https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/HR-V-Hybrid-popular-configurations1.png/_jcr_content/renditions/c3.png",
+          "precio": "30.500€"
         },
         {
-          "acabado":"Jazz Elegance",
-          "titulo":"Jazz Elegance",
+          "acabado":"Advance",
+          "titulo":"Advance",
           "descripcion":"Para los que disfrutan un poco más de lujo, así como una conducción suave y receptiva.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
-          "precio": "14.500€"
+          "img":"https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/HR-V-Hybrid-popular-configurations2.png/_jcr_content/renditions/c3.png",
+          "precio": "32.400€"
         },
         {
-          "acabado":"Jazz Crosstar",
-          "titulo":"Jazz Crosstar",
+          "acabado":"Advance Style",
+          "titulo":"Advance Style",
           "descripcion":"Para conductores que buscan un diseño de SUV divertido junto con amplitud y versatilidad.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
-          "precio": "16.500€"
+          "img":"https://www.honda.es/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/HR-V-Hybrid-popular-configurations3.png/_jcr_content/renditions/c3.png",
+          "precio": "36.140€"
         }
       ]
     },
     {
       "id": 4,
       "modelo": "CR-V",
-      "tipo": "5 puertas",
-      "titulo":"Oferta Honda Jazz 25% descuento",
+      "titulo": "REVOLUCIÓN HÍBRIDA",
+      "descripcion": "El CR-V Híbrido cuenta con la tecnología avanzada e:HEV, un sistema exclusivo de Honda que ha revolucionado con energía eléctrica la mayor parte del tiempo. Potente, suave, eficiente. Estas son tres de las ventajas que descubrirás en el nuevo CR-V Híbrido",
+      "subtitulo": "El CR-V es un Full Hybrid autorrecargable. Es suave, eficiente y, cuando aceleras, a diferencia de un híbrido suave, obtienes un rendimiento electrificado instantáneo.",
       "caracteristicas": [
         {
           "car-id": 1,
@@ -236,36 +256,37 @@
         } 
       ],
       "foto1":"https://www.honda.es/content/dam/central/cars/crv-hybrid-2019/Honda-cars-CR-V-Hybrid-nav.png/jcr:content/renditions/m_w.webp",
-      "foto2":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-e-hev-16x9.jpg/jcr:content/renditions/fb_r_w.webp",
+      "foto2":"https://www.honda.es/content/dam/central/cars/crv-hybrid-2021/CR-V-Hybrid-Sportline-XL-2.jpg/jcr:content/renditions/fb_r.jpg",
       "version": [
         {
-          "acabado":"Jazz Comfort",
-          "titulo":"Jazz Comfort",
+          "acabado":"Elegance (4x2)",
+          "titulo":"Elegance (4x2)",
           "descripcion":"Para aquellos que buscan un interior espacioso con altos niveles de confort y seguridad.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
-          "precio": "12.500€"
+          "img":"https://www.honda.es/content/dam/central/cars/crv-hybrid-2021/CR-V-Hybrid-2021-Elegance.png/_jcr_content/renditions/c1.png",
+          "precio": "36.500€"
         },
         {
-          "acabado":"Jazz Elegance",
-          "titulo":"Jazz Elegance",
+          "acabado":"Lifestyle (4x2)",
+          "titulo":"Lifestyle (4x2)",
           "descripcion":"Para los que disfrutan un poco más de lujo, así como una conducción suave y receptiva.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
-          "precio": "14.500€"
+          "img":"https://www.honda.es/content/dam/central/cars/crv-hybrid-2021/CR-V-Hybrid-2021-Lifestyle.png/_jcr_content/renditions/c1.png",
+          "precio": "38.900€"
         },
         {
-          "acabado":"Jazz Crosstar",
-          "titulo":"Jazz Crosstar",
+          "acabado":"Executive (4x4)",
+          "titulo":"Executive (4x4)",
           "descripcion":"Para conductores que buscan un diseño de SUV divertido junto con amplitud y versatilidad.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
-          "precio": "16.500€"
+          "img":"https://www.honda.es/content/dam/central/cars/crv-hybrid-2021/CR-V-Hybrid-2021-Executive.png/_jcr_content/renditions/c1.png",
+          "precio": "46.500€"
         }
       ]
     },
     {
       "id": 5,
       "modelo": "CIVIC",
-      "tipo": "5 puertas",
-      "titulo":"Oferta Honda Jazz 25% descuento",
+      "titulo": "La deportividad hecha diseño",
+      "descripcion": "El Honda Civic lleva la conducción al siguiente nivel con elegantes llantas de aleación negras de 17'' y un interior deportivo oscuro con detalles en rojo en el volante y la tapicería.", 
+      "subtitulo": "El Honda Civic está diseñado para sentir la conducción, pero puede ser mucho más que eso. Puede ser flexible y adaptarse fácilmente a lo que tú quieres que sea.",
       "caracteristicas": [
         {
           "car-id": 1,
@@ -297,27 +318,27 @@
         } 
       ],
       "foto1":"https://www.honda.es/content/dam/local/uk/cars/New%20Cars/Civic-5-Door/Civic_5_door-2020.png/jcr:content/renditions/m_w.webp",
-      "foto2":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-e-hev-16x9.jpg/jcr:content/renditions/fb_r_w.webp",
+      "foto2":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Civic-5dr-shaped-for-sport-desktop.jpg/jcr:content/renditions/fb.jpg",
       "version": [
         {
           "acabado":"Jazz Comfort",
           "titulo":"Jazz Comfort",
           "descripcion":"Para aquellos que buscan un interior espacioso con altos niveles de confort y seguridad.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
+          "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Honda-Civic%205DR-Elegance.png/_jcr_content/renditions/c1.png",
           "precio": "12.500€"
         },
         {
           "acabado":"Jazz Elegance",
           "titulo":"Jazz Elegance",
           "descripcion":"Para los que disfrutan un poco más de lujo, así como una conducción suave y receptiva.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
+          "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Honda-Civic%205DR-Elegance.png/_jcr_content/renditions/c1.png",
           "precio": "14.500€"
         },
         {
           "acabado":"Jazz Crosstar",
           "titulo":"Jazz Crosstar",
           "descripcion":"Para conductores que buscan un diseño de SUV divertido junto con amplitud y versatilidad.",
-          "img":"https://www.honda.es/content/dam/central/cars/jazz-hybrid/overview-lite/Honda-Jazz-Hybrid-19-Compare-1024x576.png/_jcr_content/renditions/c1.png",
+          "img":"https://www.honda.es/content/dam/central/cars/Civic-5-door-2020/overview/Honda-Civic%205DR-Elegance.png/_jcr_content/renditions/c1.png",
           "precio": "16.500€"
         }
       ]
@@ -325,7 +346,7 @@
     {
       "id": 6,
       "modelo": "PRESUPUESTO",
-      "tipo": "5 puertas",
+      "descripcion": "5 puertas",
       "titulo":"Oferta Honda Jazz 25% descuento",
       "caracteristicas": [
         {
@@ -384,6 +405,105 @@
       ]
     }
 
+  ],
+
+  "blog":[
+    {
+      "id": 1,
+      "titulo": "EL VEHÍCULO AUTÓNOMO DE TRABAJO DE HONDA: SEGURO, EFICIENTE Y 100% ELÉCTRICO",
+      "descripcion":"Seguro que más de una vez, cansado tras varias horas al volante, has deseado que tu coche se manejara solo. Pues bien, pronto este tipo de automóvil será una realidad. Hace ya algunos años que los fabricantes de vehículos vienen desarrollando proyectos de conducción autónoma, Honda entre ellos. Y si bien hay programas bastante avanzados, la implantación definitiva de los vehículos autónomos pasa por ajustar diversos aspectos relacionados con la seguridad vial y los seguros. En este sentido, el Honda AWV, el vehículo autónomo de trabajo de Honda, ya está brindando soluciones aplicables a los proyectos de electrificación y movilidad sostenible que el fabricante japonés ha situado entre sus principales objetivos a corto y medio plazo. El AWV incorpora tecnologías innovadoras, que al tiempo que mejoran la eficiencia y la productividad en el ámbito de trabajo, miran más allá, hacia el ámbito de los vehículos de pasajeros. Aquí es donde, realmente, se espera que la implementación de estas tecnologías nos lleve hacia la conducción del futuro: más cómoda, más placentera y perfectamente sostenible.",
+      "categoria":"INNOVACIÓN",
+      "fecha":"FEBRERO 15, 2022",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/auto2-e1644942775626.png"
+    },
+    {
+      "id": 2,
+      "titulo": "MY HONDA+ Y EL NUEVO HR-V: LA ALIANZA INTELIGENTE",
+      "descripcion":"Honda sigue avanzando hacia la electrificación de su gama y prueba de ello es el reciente lanzamiento del nuevo HR-V, un SUV híbrido autorrecargable. Gracias a la tecnología híbrida e:HEV, este nuevo modelo de Honda no necesita enchufarse a la red. Se recarga él solito. Una preocupación menos para el conductor, que puede entregarse al placer de una conducción más limpia y menos agresiva con el medio ambiente, sin tener que sacrificar potencia. El HR-V es un full hybrid la mar de inteligente: funciona con energía eléctrica silenciosa y además, supone un ahorro real para el bolsillo del propietario. Y no solo es inteligente por su innovadora tecnología y su diseño, sino también por su conectividad. Porque la vida no tiene por qué ser tan complicada. ¿Para qué tantas llaves, tarjetas de crédito y accesorios de diverso pelaje si, en realidad, lo único que necesitamos es un teléfono móvil?",
+      "categoria":"INNOVACIÓN",
+      "fecha":"FEBRERO 10, 2022",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/346752-2021-honda-hr-v-e-hev-e1644571862498.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "HONDA: EL CAMINO DE LA ELECTRIFICACIÓN HACIA UN MUNDO DE CIELOS AZULES",
+      "descripcion":"El camino hacia la descarbonización, las cero emisiones, el mínimo impacto ambiental, en suma, hacia una sociedad más sostenible y más respetuosa con el planeta, es un camino por el que cada vez más empresas transitan. Unas con paso más decidido que otras. Pero una de las primeras en emprenderlo, de forma voluntaria y honesta, fue Honda. Por eso, fueron pioneros en el desarrollo del vehículo eléctrico. Y, por eso, hoy en día, sus modelos eléctricos ofrecen mucho más que los de cualquier otro fabricante. ¿Cómo? Expandiendo los horizontes de la energía renovable. Honda se ha aliado, en esta ocasión, con el consorcio V2X Suisse en un proyecto que trata de poner de relieve la importancia de los vehículos eléctricos en el futuro de la gestión energética. Así, gracias a la tecnología de carga bidireccional, los coches eléctricos podrán funcionar como fuente de energía para estabilizar la red eléctrica cuando no sean necesarios para desplazarse. Teniendo en cuenta que los vehículos pasan más tiempo aparcados que en carretera, sería un derroche no aprovechar la energía sobrante.",
+      "categoria":"INNOVACIÓN",
+      "fecha":"FEBRERO 8, 2022",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/201509-e-progress-honda-power-charger-2-scaled-e1644339675793.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "IDEAS PARA VIAJES LARGOS EN COCHE CON NIÑOS (Y QUÉ LLEVAR CONTIGO)",
+      "descripcion":"Han terminado las clases, estás fuera de la oficina, tienes las maletas preparadas y el destino localizado. Es hora de salir, pero… ¿Cómo vas a mantener entretenida a la familia durante todo el trayecto? Os presentamos 10 ideas para hacer con niños durante un largo viaje en coche – y qué llevar encima para lograr un trayecto tranquilo -.",
+      "categoria":"MUNDO HONDA",
+      "fecha":"FEBRERO 4, 2022",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/60506-22ym-hrv-advance-family-kg-original-2560x1440-1.jpeg"
+    },
+    {
+      "id": 5,
+      "titulo": "EL HONDAJET SUMA Y SIGUE CON SU ENTREGA NÚMERO 200",
+      "descripcion":"El HondaJet está de enhorabuena, y no es para menos. Desde que se presentó públicamente todo han sido buenas noticias para Honda. Su último logro, al alcance de muy pocos, es la entrega del HondaJet número 200 por parte de Honda Aircraft.",
+      "categoria":"MUNDO HONDA",
+      "fecha":"FEBRERO 2, 2022",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/333030-honda-aircraft-company-unveils-the-hondajet-elite-s-2-scaled-e1643820379575.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "¿VALEN LA PENA LOS HÍBRIDOS? VENTAJAS DE UN VEHÍCULO HÍBRIDO",
+      "descripcion":"En 1999 Honda se convirtió en el primer fabricante en ofrecer automóviles híbridos en Europa. Y es que a la compañía nipona le apasiona compartir los beneficios de la conducción híbrida, ya sea ahorrando dinero en combustible e impuestos o reduciendo el impacto negativo sobre el medio ambiente. Combinando la practicidad de un motor de combustión con los beneficios de la reducción de emisiones, existen numerosas ventajas al conducir un coche híbrido en comparación con uno de gasolina o diésel.",
+      "categoria":"INNOVACIÓN",
+      "fecha":"ENERO 31, 2021",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/194813-2020-jazz.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "ÁLEX PALOU, HISTORIA DE UN CAMPEÓN",
+      "descripcion":"Primeros pasos: del karting al equipo Campo. Nacido en 1997 en Sant Antoni de Vilamajor, un pequeño pueblo en las faldas del Montseny, Álex arranca en la niñez, como suele ser habitual, en los karts. Aquí se vio las caras con algunos de los mejores pilotos de la actualidad: Esteban Ocon, Carlos Sainz o el vigente campeón de la F1 con el equipo Red Bull Honda, Max Verstappen. En 2014, como ocurriera con Fernando Alonso y Antonio García, se fija en él Adrián Campos. Campos lo recluta para su equipo y le brinda la oportunidad de competir en el EuroFormula Open. Álex estuvo a la altura: en su primera carrera, logró la pole y el triunfo. Además, quedó tercero en la clasificación general del campeonato. En 2015 y 2016, disputó la GP3 Series todavía con el equipo Campos. Apuntaba maneras, pero aún tenía que conseguir que los grandes se fijaran en él.",
+      "categoria":"COMPETICIÓN",
+      "fecha":"ENERO 27, 2022",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/lat-lb-092421-pb-00594-1200x800-1.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "¿QUÉ ES EL FRENO REGENERATIVO Y CÓMO FUNCIONA?",
+      "descripcion":"El freno regenerativo es un proceso simple y eficiente que utilizan los automóviles híbridos para recargar la batería. Descubre qué es, cómo funciona y por qué es importante para mantener un buen funcionamiento de los vehículos que aprovechan el frenado para recargarse.",
+      "categoria":"GENERAL",
+      "fecha":"ENERO 24, 2022",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/363680-honda-hr-v-e-hev-2021-e1643128748101.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "¿TE GUSTA EL INVIERNO? CUATRO CONSEJOS PARA CONDUCIR TU HONDA TAMBIÉN EN LA NIEVE",
+      "descripcion":"Hace un mes que estrenamos la nueva estación y lo peor (o lo mejor, todo depende del cristal con que se mire) está por llegar. ¿Estamos realmente preparados para conducir sobre nieve y hielo y salir airosos del intento? No es mucho lo que se necesita. Lo de siempre: un buen sistema de asistencia al conductor, como el Honda Sensing, y la dosis suficiente de sentido común. Ahora sí, ya puedes sentarte al volante y empezar a cantar a lo Sinatra: “Let it snow, let it snow, let it snow”. No lo niegues, lo estabas deseando. Pero no te despistes:  aquí van los cuatro consejos básicos para moverte por la nieve con la  elegancia y seguridad de un patinador artístico.",
+      "categoria":"MUNDO HONDA",
+      "fecha":"ENERO 20, 2022",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/honda-snow.png"
+    },
+    {
+      "id": 10,
+      "titulo": "CUATRO PILOTOS EN EL TOP 10, UN PODIO Y UN RÉCORD: BALANCE DEL EQUIPO HONDA EN EL DAKAR",
+      "descripcion":"Pablo Quintanilla, segundo en la general, y Joan Barreda, con 29 victorias de etapa, rubrican una actuación brillante del equipo Monster Energy Honda en el Dakar 2022",
+      "categoria":"COMPETICIÓN",
+      "fecha":"ENERO 17, 2022",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/pablo-quintanilla-second-in-the-2022-dakar-ahead-of-the-grand-finale.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "¿CÓMO FUNCIONAN LOS AUTOMÓVILES HÍBRIDOS?",
+      "descripcion":"Un vehículo híbrido eléctrico (HEV) está propulsado por un motor eléctrico y uno de combustión, los cuales pueden funcionar por separado o conjuntamente. Al combinar fuentes de energía, los híbridos generan menos emisiones que los automóviles convencionales y, como requieren menos combustible, resultan más eficientes en el consumo. Existen diferencias específicas entre los sistemas híbridos en función de los fabricantes. A continuación, te facilitamos una guía general de los distintos tipos y su funcionamiento.",
+      "categoria":"INNOVACIÓN",
+      "fecha":"ENERO 13, 2021",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/fb-r.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "“El origen de la determinación”: la historia de Honda en 60 segundos épicos",
+      "descripcion":"¿Qué pasaría si cruzaras “El Rey León” con “Cars”?  La estampida de ñus en el cañón convertida en una estampida de todos los productos míticos de Honda, sucediéndose a una velocidad vertiginosa en la pantalla. Un relato épico que condensa en un minuto 73 años de historia para terminar advirtiendo al espectador que lo mejor está por venir. Porque, como dice la voz en off, “todo lo que hemos hecho no es nada comparado con lo que imaginamos para el futuro”.",
+      "categoria":"MUNDO HONDA",
+      "fecha":"DICIEMBRE 29, 2021",
+      "foto":"https://www.hondadreams.es/wp-content/uploads/honda-spot.png"
+    }
   ]
 }
 

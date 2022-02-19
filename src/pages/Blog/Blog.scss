@@ -1,0 +1,47 @@
+.flex-container-blog {
+    padding: 0;
+    margin: 50px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .flex-item-blog {
+    background: linear-gradient(to bottom, rgb(230, 230, 230), white);
+    // padding: 5px;
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 15px;
+  
+    line-height: 100px;
+    color: cadetblue;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    transition: all ease-out .3s;
+  
+    img {
+      width: 180px;
+      height: auto;
+    }
+  
+    h3 {
+        margin: 0;
+        padding: 0;
+        color:black;
+        text-transform: capitalize;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    h5{
+      color:gray;
+    }
+  }
+
+  .cardblog{
+      background-color: white;
+      margin-top: -40px;;
+      width: 90%;
+  }
