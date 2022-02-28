@@ -8,7 +8,7 @@ const Header = () => {
     <div>
       <header>
         <div className="logo">
-          <a href="./">
+          <a href="/">
             <img
               src="https://www.honda.es/etc/designs/honda/theme_inclusive/img/logos/honda_the_power_of_dreams.png"
               alt="Honda España S.A."
